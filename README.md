@@ -1,41 +1,46 @@
 ## Hi there 👋, Im Kyzaa
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by curiosity about technology, I study Backend development and also Penetration testing. I am also a member of the ACT community and also Meta4Sec.
 
 ![KyzaaEphKonz's Stats](https://github-readme-stats.vercel.app/api?username=KyzaaEphKonz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
-
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-
+- 🔭 Currently I am studying at vocational school majoring in Software and Game Development. At SMK Negeri 1 Wadaslintang.
+- 📝 I like to write poetry, read classic literature, and philosophy books.
+- 🌐 Part of the ACT and Meta4Sec community
+- 💻 I’m currently diving into **cybersecurity** and **backend development**.
+- 🛠️ Currently learning: PHP, JavaScript, Python, MySQL, and ethical hacking.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,kali,linux,mysql,php,py,ubuntu,vscode)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- 🔐 Deepening my journey into **Cybersecurity & Ethical Hacking**  
+  - Practicing **bug hunting** and learning about common web vulnerabilities    
+  - Exploring platforms like **TryHackMe** and **HackTheBox**
+
+- 🛠️ Building a foundation in **Backend Development**  
+  - Developing web apps with **PHP** and **MySQL**  
+  - Learning about authentication, CRUD, and basic RESTful concepts  
+  - Exploring how backend logic connects to databases and user interaction  
+
+- 📚 Exploring the intersection of **code, emotion, and thought**  
+  - Writing poetry inspired by real experiences  
+  - Reading classic literature and **Stoic philosophy** to shape mindset
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🛡️ Discovered a **Sensitive Data Exposure (SDE)** vulnerability in the **bphtb.wonosobokab.go.id** subdomain — Responsible disclosure led to acknowledgment by **Kabupaten Wonosobo** (2024).
+
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [Instagram](https://www.instagram.com/zakynsa/)
+- Chat more on [Telegram](https://t.me/KyzaEphKonz)
+- Know More about me [LinkedIn](https://www.linkedin.com/in/dzaky-rnf/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
