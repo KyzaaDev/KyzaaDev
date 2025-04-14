@@ -13,7 +13,7 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 - 🛠️ Currently learning: PHP, JavaScript, Python, MySQL, and ethical hacking.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,kali,linux,mysql,php,py,ubuntu,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,kali,linux,mysql,php,py,ubuntu,vscode,nmap)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
