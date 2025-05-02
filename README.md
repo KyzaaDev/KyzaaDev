@@ -2,7 +2,7 @@
 
 I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by curiosity about technology, I study Backend development and also Penetration testing. I am also a member of the ACT community and also Meta4Sec.
 
-![KyzaaEphKonz's Stats](https://github-readme-stats.vercel.app/api?username=KyzaaEphKonz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![KyzaaEphKonz's Stats](https://github-readme-stats.vercel.app/api?username=KyzaaDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
