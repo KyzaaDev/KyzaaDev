@@ -1,4 +1,4 @@
-## Hi there 👋, Im Kyzaa
+## Hi there 👋, Im Zaky
 
 I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by curiosity about technology, I study Backend development and also Penetration testing. I am also a member of the ACT community and also Meta4Sec.
 
