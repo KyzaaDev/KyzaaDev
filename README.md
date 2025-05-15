@@ -30,9 +30,12 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
   - Writing poetry inspired by real experiences  
   - Reading classic literature and **Stoic philosophy** to shape mindset
 
- ## 🏆 Achievements
+ ## 🏆 My contribution 
 
 - 🛡️ Discovered a **Sensitive Data Exposure (SDE)** vulnerability in the **bphtb.wonosobokab.go.id** subdomain — Responsible disclosure led to acknowledgment by **Kabupaten Wonosobo** (2024).
+- 📄 Reported a **Sensitive Data Exposure (SDE)** vulnerability in the **sitawon.wonosobokab.go.id** subdomain.
+- 🕒 Reported **Time-Based SQL Injection** vulnerability in the **perpus.smkn1-wnb.sch.id** subdomain.
+📝 And others — all reports were submitted with a responsible disclosure approach. Some were acknowledged, others were fixed silently or remain unconfirmed.
 
 
 
