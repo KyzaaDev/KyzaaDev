@@ -14,6 +14,7 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,kali,linux,mysql,php,py,ubuntu,vscode,nmap)](https://skillicons.dev)
+[![My Skills](https://camo.githubusercontent.com/3fe19c163aa55e7cc726050226cb88434de7bd1929286f3cbd3b6eb13ba102f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f427572705f53756974652d4646363633333f7374796c653d666f722d7468652d6261646765266c6f676f3d627572702d737569746526636f6c6f723d303030303030)
 
 ## 🌱 Currently Exploring
 
