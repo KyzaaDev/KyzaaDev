@@ -1,4 +1,4 @@
-## Hi there 👋, Im Zaky
+## Hi there 👋, Im Dzaky
 
 I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by curiosity about technology, I study Backend development and also Penetration testing. I am also a member of the ACT community and also Meta4Sec.
 
@@ -26,10 +26,6 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
   - Learning about authentication, CRUD, and basic RESTful concepts  
   - Exploring how backend logic connects to databases and user interaction  
 
-- 📚 Exploring the intersection of **code, emotion, and thought**  
-  - Writing poetry inspired by real experiences  
-  - Reading classic literature and **Stoic philosophy** to shape mindset
-
  ## 🏆 My contribution 
 
 - 🛡️ Discovered a **Sensitive Data Exposure (SDE)** vulnerability in the **bphtb.wonosobokab.go.id** subdomain — Responsible disclosure led to acknowledgment by **Kabupaten Wonosobo** (2024).
@@ -43,7 +39,6 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 ## 📬 Get in Touch
 
 - Connect with me on [Instagram](https://www.instagram.com/zakynsa/)
-- Chat more on [Telegram](https://t.me/KyzaEphKonz)
 - Know More about me [LinkedIn](https://www.linkedin.com/in/dzaky-rnf/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
