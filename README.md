@@ -5,11 +5,11 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGN1aXNpaHMyY2d3bzBocW94Z3B4ZnF5M2sycW92eHdqaG5tbGcwdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DV8cE7pkHs2qhAgLc1/giphy.gif" width="49%" />
 </p>
 
+
+
+### 🚀 About Me
+
 I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by curiosity about technology, I study Backend development and also Penetration testing. I am also a member of the ACT community and also Meta4Sec.
-
-![KyzaaEphKonz's Stats](https://github-readme-stats.vercel.app/api?username=KyzaaDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-## 🚀 About Me
 
 - 🔭 Currently I am studying at vocational school majoring in Software and Game Development. At SMK Negeri 1 Wadaslintang.
 - 📝 I like to write poetry, read classic literature, and philosophy books.
@@ -17,10 +17,21 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 - 💻 I’m currently diving into **cybersecurity** and **backend development**.
 - 🛠️ Currently learning: PHP, JavaScript, Python, MySQL, and ethical hacking.
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,kali,linux,mysql,php,py,ubuntu,vscode,nmap)](https://skillicons.dev)
+### 🛠️ Skills
+<img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
 
-## 🌱 Currently Exploring
+### 🌱 Currently Exploring
 
 - 🔐 Deepening my journey into **Cybersecurity & Ethical Hacking**  
   - Practicing **bug hunting** and learning about common web vulnerabilities    
@@ -31,7 +42,7 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
   - Learning about authentication, CRUD, and basic RESTful concepts  
   - Exploring how backend logic connects to databases and user interaction  
 
- ## 🏆 My contribution 
+ ### 🏆 My contribution 
 
 - 🛡️ Discovered a **Sensitive Data Exposure (SDE)** vulnerability in the **bphtb.wonosobokab.go.id** subdomain — Responsible disclosure led to acknowledgment by **Kabupaten Wonosobo** (2024).
 - 📄 Reported a **Sensitive Data Exposure (SDE)** vulnerability in the **sitawon.wonosobokab.go.id** subdomain. (2025)
@@ -40,12 +51,21 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 
 📝 And others — all reports were submitted with a responsible disclosure approach. Some were acknowledged, others were fixed silently or remain unconfirmed.
 
+### 📊 My Github Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KyzaaDev&hide=contribs,prs&show_icons=true&theme=omni" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=KyzaaDev&theme=omni&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyzaaDev&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
+</div>
 
+### 📬 Get in Touch
+![https://www.instagram.com/zakynsa/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/dzaky-rnf/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-## 📬 Get in Touch
-
-- Connect with me on [Instagram](https://www.instagram.com/zakynsa/)
-- Know More about me [LinkedIn](https://www.linkedin.com/in/dzaky-rnf/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KyzaaDev/KyzaaDev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KyzaaDev/KyzaaDev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KyzaaDev/KyzaaDev/output/pacman-contribution-graph.svg">
+</picture>
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
