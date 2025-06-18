@@ -7,7 +7,7 @@
 
 
 
-### 🚀 About Me
+## 🚀 About Me
 ---
 
 I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by curiosity about technology, I study Backend development and also Penetration testing. I am also a member of the ACT community and also Meta4Sec.
@@ -18,7 +18,7 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 - 💻 I’m currently diving into **cybersecurity** and **backend development**.
 - 🛠️ Currently learning: PHP, JavaScript, Python, MySQL, and ethical hacking.
 
-### 🛠️ Skills
+## 🛠️ Skills
 ---
 <div align="center">
   <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
@@ -37,7 +37,7 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 
 
 
-### 🌱 Currently Exploring
+## 🌱 Currently Exploring
 ---
 
 - 🔐 Deepening my journey into **Cybersecurity & Ethical Hacking**  
@@ -50,7 +50,7 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
   - Exploring how backend logic connects to databases and user interaction  
 
 
- ### 🏆 My contribution 
+ ## 🏆 My contribution 
 ---
 
 - 🛡️ Discovered a **Sensitive Data Exposure (SDE)** vulnerability in the **bphtb.wonosobokab.go.id** subdomain — Responsible disclosure led to acknowledgment by **Kabupaten Wonosobo** (2024).
@@ -61,7 +61,7 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 📝 And others — all reports were submitted with a responsible disclosure approach. Some were acknowledged, others were fixed silently or remain unconfirmed.
 
 
-### 📊 My Github Stats
+## 📊 My Github Stats
 ---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KyzaaDev&hide=contribs,prs&show_icons=true&theme=omni" height="150"/>
@@ -70,12 +70,12 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 </div>
 
 
-### 📬 Get in Touch
+## 📬 Get in Touch
 ---
 ![https://www.instagram.com/zakynsa/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/dzaky-rnf/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
-### 🎮 Play game with me
+## 🎮 Play game with me
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KyzaaDev/KyzaaDev/output/pacman-contribution-graph-dark.svg">
