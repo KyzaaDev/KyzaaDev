@@ -5,8 +5,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGN1aXNpaHMyY2d3bzBocW94Z3B4ZnF5M2sycW92eHdqaG5tbGcwdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DV8cE7pkHs2qhAgLc1/giphy.gif" width="49%" />
 </p>
 
-
-
 ## 🚀 About Me
 
 I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by curiosity about technology, I study Backend development and also Penetration testing. I am also a member of the ACT community and also Meta4Sec.
@@ -16,7 +14,9 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 - 🌐 Part of the ACT and Meta4Sec community
 - 💻 I’m currently diving into **cybersecurity** and **backend development**.
 - 🛠️ Currently learning: PHP, JavaScript, Python, MySQL, and ethical hacking.
+
 ---
+
 ## 🛠️ Skills
 <div align="center">
   <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
@@ -35,7 +35,6 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 
 ---
 
-
 ## 🌱 Currently Exploring
 
 - 🔐 Deepening my journey into **Cybersecurity & Ethical Hacking**  
@@ -45,7 +44,8 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 - 🛠️ Building a foundation in **Backend Development**  
   - Developing web apps with **PHP** and **MySQL**  
   - Learning about authentication, CRUD, and basic RESTful concepts  
-  - Exploring how backend logic connects to databases and user interaction  
+  - Exploring how backend logic connects to databases and user interaction
+
 ---
 
  ## 🏆 My contribution 
@@ -64,6 +64,7 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
   <img src="https://nirzak-streak-stats.vercel.app/?user=KyzaaDev&theme=omni&hide_border=false" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyzaaDev&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
 </div>
+
 ---
 
 ## 📬 Get in Touch
@@ -77,6 +78,7 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KyzaaDev/KyzaaDev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KyzaaDev/KyzaaDev/output/pacman-contribution-graph.svg">
 </picture>
+
 ---
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
