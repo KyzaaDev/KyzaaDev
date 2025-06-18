@@ -8,7 +8,6 @@
 
 
 ## 🚀 About Me
----
 
 I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by curiosity about technology, I study Backend development and also Penetration testing. I am also a member of the ACT community and also Meta4Sec.
 
@@ -17,9 +16,8 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 - 🌐 Part of the ACT and Meta4Sec community
 - 💻 I’m currently diving into **cybersecurity** and **backend development**.
 - 🛠️ Currently learning: PHP, JavaScript, Python, MySQL, and ethical hacking.
-
-## 🛠️ Skills
 ---
+## 🛠️ Skills
 <div align="center">
   <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
@@ -34,11 +32,10 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
-
+---
 
 
 ## 🌱 Currently Exploring
----
 
 - 🔐 Deepening my journey into **Cybersecurity & Ethical Hacking**  
   - Practicing **bug hunting** and learning about common web vulnerabilities    
@@ -48,42 +45,36 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
   - Developing web apps with **PHP** and **MySQL**  
   - Learning about authentication, CRUD, and basic RESTful concepts  
   - Exploring how backend logic connects to databases and user interaction  
-
-
- ## 🏆 My contribution 
 ---
 
+ ## 🏆 My contribution 
 - 🛡️ Discovered a **Sensitive Data Exposure (SDE)** vulnerability in the **bphtb.wonosobokab.go.id** subdomain — Responsible disclosure led to acknowledgment by **Kabupaten Wonosobo** (2024).
 - 📄 Reported a **Sensitive Data Exposure (SDE)** vulnerability in the **sitawon.wonosobokab.go.id** subdomain. (2025)
 - 🕒 Detected **Time-Based SQL Injection** vulnerability in the **perpus.smkn1-wnb.sch.id** subdomain. (2025)
 - 🔑 Identified **Hardcoded Credentials Exposure** in a public GitHub repository owned by Dinas Lingkungan Hidup Kabupaten Banyuwangi (dlh-banyuwangikab) — Responsible disclosure led to official acknowledgment and certification by DLH Banyuwangi (2025).
 
 📝 And others — all reports were submitted with a responsible disclosure approach. Some were acknowledged, others were fixed silently or remain unconfirmed.
-
+---
 
 ## 📊 My Github Stats
----
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KyzaaDev&hide=contribs,prs&show_icons=true&theme=omni" height="150"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=KyzaaDev&theme=omni&hide_border=false" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyzaaDev&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
 </div>
-
+---
 
 ## 📬 Get in Touch
----
 ![https://www.instagram.com/zakynsa/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/dzaky-rnf/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
+---
 
 ## 🎮 Play game with me
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KyzaaDev/KyzaaDev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KyzaaDev/KyzaaDev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KyzaaDev/KyzaaDev/output/pacman-contribution-graph.svg">
 </picture>
-
-___
+---
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
