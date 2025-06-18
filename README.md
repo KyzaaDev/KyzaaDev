@@ -1,6 +1,6 @@
 ## Hi there 👋, Im Dzaky
 
-![header](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVzNTZ6NTlxeW1ubGJzMG5teHh0MHVlczBoZnZ6bjNmZTFpNXB4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AikqU9c8gOamzodpfP/giphy.gif)
+![header](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWllZDQwZTBuaHR0cGg5OGlseGxkamFlaDF2NmdsaGxwNm90ZXRzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IShxz9vFSpUSR30gH0/giphy.gif) ![header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGN1aXNpaHMyY2d3bzBocW94Z3B4ZnF5M2sycW92eHdqaG5tbGcwdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GRanCKIU5KoXSnVloU/giphy.gif)
 
 I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by curiosity about technology, I study Backend development and also Penetration testing. I am also a member of the ACT community and also Meta4Sec.
 
