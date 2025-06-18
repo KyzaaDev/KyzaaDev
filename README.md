@@ -5,9 +5,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGN1aXNpaHMyY2d3bzBocW94Z3B4ZnF5M2sycW92eHdqaG5tbGcwdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DV8cE7pkHs2qhAgLc1/giphy.gif" width="49%" />
 </p>
 
-___
+
 
 ### 🚀 About Me
+---
 
 I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by curiosity about technology, I study Backend development and also Penetration testing. I am also a member of the ACT community and also Meta4Sec.
 
@@ -17,9 +18,8 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 - 💻 I’m currently diving into **cybersecurity** and **backend development**.
 - 🛠️ Currently learning: PHP, JavaScript, Python, MySQL, and ethical hacking.
 
-___
-
 ### 🛠️ Skills
+---
 <div align="center">
   <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
@@ -35,9 +35,10 @@ ___
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-___
+
 
 ### 🌱 Currently Exploring
+---
 
 - 🔐 Deepening my journey into **Cybersecurity & Ethical Hacking**  
   - Practicing **bug hunting** and learning about common web vulnerabilities    
@@ -48,9 +49,9 @@ ___
   - Learning about authentication, CRUD, and basic RESTful concepts  
   - Exploring how backend logic connects to databases and user interaction  
 
-___
 
  ### 🏆 My contribution 
+---
 
 - 🛡️ Discovered a **Sensitive Data Exposure (SDE)** vulnerability in the **bphtb.wonosobokab.go.id** subdomain — Responsible disclosure led to acknowledgment by **Kabupaten Wonosobo** (2024).
 - 📄 Reported a **Sensitive Data Exposure (SDE)** vulnerability in the **sitawon.wonosobokab.go.id** subdomain. (2025)
@@ -59,23 +60,23 @@ ___
 
 📝 And others — all reports were submitted with a responsible disclosure approach. Some were acknowledged, others were fixed silently or remain unconfirmed.
 
-___
 
 ### 📊 My Github Stats
+---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KyzaaDev&hide=contribs,prs&show_icons=true&theme=omni" height="150"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=KyzaaDev&theme=omni&hide_border=false" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyzaaDev&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
 </div>
 
-___
 
 ### 📬 Get in Touch
+---
 ![https://www.instagram.com/zakynsa/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/dzaky-rnf/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-___
 
 ### 🎮 Play game with me
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KyzaaDev/KyzaaDev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KyzaaDev/KyzaaDev/output/pacman-contribution-graph.svg">
@@ -86,19 +87,3 @@ ___
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
-
-
-<!--
-**KyzaaEphKonz/KyzaaEphKonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
