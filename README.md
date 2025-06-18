@@ -32,6 +32,7 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
+
 ---
 
 
@@ -52,8 +53,8 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 - 📄 Reported a **Sensitive Data Exposure (SDE)** vulnerability in the **sitawon.wonosobokab.go.id** subdomain. (2025)
 - 🕒 Detected **Time-Based SQL Injection** vulnerability in the **perpus.smkn1-wnb.sch.id** subdomain. (2025)
 - 🔑 Identified **Hardcoded Credentials Exposure** in a public GitHub repository owned by Dinas Lingkungan Hidup Kabupaten Banyuwangi (dlh-banyuwangikab) — Responsible disclosure led to official acknowledgment and certification by DLH Banyuwangi (2025).
-
 📝 And others — all reports were submitted with a responsible disclosure approach. Some were acknowledged, others were fixed silently or remain unconfirmed.
+
 ---
 
 ## 📊 My Github Stats
@@ -66,6 +67,7 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 
 ## 📬 Get in Touch
 ![https://www.instagram.com/zakynsa/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/dzaky-rnf/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 ---
 
 ## 🎮 Play game with me
