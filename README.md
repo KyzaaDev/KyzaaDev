@@ -39,7 +39,7 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 
 - 🔐 Deepening my journey into **Cybersecurity & Ethical Hacking**  
   - Practicing **bug hunting** and learning about common web vulnerabilities    
-  - Exploring platforms like **TryHackMe** and **HackTheBox**
+  - Exploring platforms like **TryHackMe**,**HackTheBox** and **PicoCTF**
 
 - 🛠️ Building a foundation in **Backend Development**  
   - Developing web apps with **PHP** and **MySQL**  
