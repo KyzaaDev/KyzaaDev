@@ -1,4 +1,4 @@
-## Hi there 👋, Im Dzaky
+## Hi there 👋, Im Dzaky.
 
 <p>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FwNGI0amV1bXlnZHhvMnlrZW1zNzJsZTR3d3VlYzMzMW5zeDMwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRanCKIU5KoXSnVloU/giphy.gif" width="49%" />
