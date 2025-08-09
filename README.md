@@ -2,7 +2,7 @@
 
 <p>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FwNGI0amV1bXlnZHhvMnlrZW1zNzJsZTR3d3VlYzMzMW5zeDMwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRanCKIU5KoXSnVloU/giphy.gif" width="49%" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemthNTV2OGZweGJqaTBxNjA5Y3BjMWxxOGdxaHMyOHZoMGt3c2FldCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B3FXO4TxHOYfUWjJms/giphy.gif" width="49%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG1jM2FocWd2amJ6MDU1bXl2NGpoM3JsZW41aWo4NGJvc2ExM3h5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mXxndrbayRhKUhBwOf/giphy.gif" width="49%" />
 </p>
 
 ## 🚀 About Me
