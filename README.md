@@ -53,6 +53,7 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 - 📄 Reported a **Sensitive Data Exposure (SDE)** vulnerability in the **sitawon.wonosobokab.go.id** subdomain. (2025)
 - 🕒 Detected **Time-Based SQL Injection** vulnerability in the **perpus.smkn1-wnb.sch.id** subdomain. (2025)
 - 🔑 Identified **Hardcoded Credentials Exposure** in a public GitHub repository owned by Dinas Lingkungan Hidup Kabupaten Banyuwangi (dlh-banyuwangikab) — Responsible disclosure led to official acknowledgment and certification by DLH Banyuwangi (2025).
+- 🗝️ Reported a Sensitive Data Exposure (SDE) vulnerability in a public GitHub repository owned by CSIRT Kabupaten Blora (BloraKab) — Responsible disclosure led to official acknowledgment and certification by CSIRT BloraKab (2025).
 
 📝 And others — all reports were submitted with a responsible disclosure approach. Some were acknowledged, others were fixed silently or remain unconfirmed.
 
