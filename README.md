@@ -69,11 +69,6 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 
 ---
 
-## 📬 Get in Touch
-![https://www.instagram.com/zakynsa/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/dzaky-rnf/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
----
-
 ## 🎮 Play game with me
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KyzaaDev/KyzaaDev/output/pacman-contribution-graph-dark.svg">
