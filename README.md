@@ -10,7 +10,6 @@
 I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by curiosity about technology, I study Backend development and also Penetration testing. I am also a member of the ACT community and also Meta4Sec.
 
 - 🔭 Currently I am studying at vocational school majoring in Software and Game Development. At SMK Negeri 1 Wadaslintang.
-- 📝 I like to write poetry, read classic literature, and philosophy books.
 - 🌐 Part of the ACT and Meta4Sec community.
 - 💻 I’m currently diving into **cybersecurity** and **backend development**.
 - 🛠️ Currently learning: PHP, JavaScript, Python, MySQL, and ethical hacking.
