@@ -1,16 +1,17 @@
-## Hi there 👋, Im Dzaky.
+## Hi there 👋, Im Dzaky
 
 <p>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FwNGI0amV1bXlnZHhvMnlrZW1zNzJsZTR3d3VlYzMzMW5zeDMwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRanCKIU5KoXSnVloU/giphy.gif" width="49%" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG1jM2FocWd2amJ6MDU1bXl2NGpoM3JsZW41aWo4NGJvc2ExM3h5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mXxndrbayRhKUhBwOf/giphy.gif" width="49%" />
+  <img src="https://i.imgur.com/Oot5PTp.png"/>
 </p>
+
 
 ## 🚀 About Me
 
 I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by curiosity about technology, I study Backend development and also Penetration testing. I am also a member of the ACT community and also Meta4Sec.
 
 - 🔭 Currently I am studying at vocational school majoring in Software and Game Development. At SMK Negeri 1 Wadaslintang.
-- 🌐 Part of the ACT and Meta4Sec community.
+- 📝 I like to write poetry, read classic literature, and philosophy books.
+- 🌐 Part of the ACT and Meta4Sec community
 - 💻 I’m currently diving into **cybersecurity** and **backend development**.
 - 🛠️ Currently learning: PHP, JavaScript, Python, MySQL, and ethical hacking.
 
@@ -36,9 +37,9 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 
 ## 🌱 Currently Exploring
 
-- 🔐 Deepening my journey into **Cybersecurity & Ethical Hacking**.  
-  - Practicing **bug hunting** and learning about common web vulnerabilities.    
-  - Exploring platforms like **TryHackMe**,**HackTheBox** and **PicoCTF**.
+- 🔐 Deepening my journey into **Cybersecurity & Ethical Hacking**  
+  - Practicing **bug hunting** and learning about common web vulnerabilities    
+  - Exploring platforms like **TryHackMe**,**HackTheBox** and **PicoCTF**
 
 - 🛠️ Building a foundation in **Backend Development**  
   - Developing web apps with **PHP** and **MySQL**  
@@ -52,8 +53,6 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 - 📄 Reported a **Sensitive Data Exposure (SDE)** vulnerability in the **sitawon.wonosobokab.go.id** subdomain. (2025)
 - 🕒 Detected **Time-Based SQL Injection** vulnerability in the **perpus.smkn1-wnb.sch.id** subdomain. (2025)
 - 🔑 Identified **Hardcoded Credentials Exposure** in a public GitHub repository owned by Dinas Lingkungan Hidup Kabupaten Banyuwangi (dlh-banyuwangikab) — Responsible disclosure led to official acknowledgment and certification by DLH Banyuwangi (2025).
-- 🗝️ Reported a **Sensitive Data Exposure (SDE)** vulnerability in a public GitHub repository owned by CSIRT Kabupaten Blora (BloraKab) — Responsible disclosure led to official acknowledgment and certification by CSIRT BloraKab (2025).
-- 🏛️ Reported a **Sensitive Data Exposure (SDE)** vulnerability in a public GitHub repository owned by DPR (Dewan Perwakilan Rakyat Republik Indonesia) — Responsible disclosure led to acknowledgment by DPR (2025).
 
 📝 And others — all reports were submitted with a responsible disclosure approach. Some were acknowledged, others were fixed silently or remain unconfirmed.
 
@@ -65,6 +64,11 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
   <img src="https://nirzak-streak-stats.vercel.app/?user=KyzaaDev&theme=omni&hide_border=false" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyzaaDev&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
 </div>
+
+---
+
+## 📬 Get in Touch
+![https://www.instagram.com/zakynsa/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/dzaky-rnf/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
 
