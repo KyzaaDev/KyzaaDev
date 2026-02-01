@@ -13,7 +13,7 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 - 📝 I like to write poetry, read classic literature, and philosophy books.
 - 🌐 Part of the ACT and Meta4Sec community
 - 💻 I’m currently diving into **cybersecurity** and **backend development**.
-- 🛠️ Currently learning: PHP, JavaScript, Python, MySQL, and ethical hacking.
+- 🛠️ Currently learning: PHP, JavaScript, Python, MySQL, Desktop Development using C#, and ethical hacking.
 
 ---
 
