@@ -1,4 +1,4 @@
-## Hi there 👋, Im Dzaky
+## Hi there 👋, Im Dzaky RNF
 
 <p>
   <img src="https://i.imgur.com/Oot5PTp.png"/>
