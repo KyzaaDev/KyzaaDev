@@ -48,11 +48,15 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 
 ---
 
- ## 🏆 My contribution 
+ ## 🏆 My contribution & Achievment
 - 🛡️ Discovered a **Sensitive Data Exposure (SDE)** vulnerability in the **bphtb.wonosobokab.go.id** subdomain — Responsible disclosure led to acknowledgment by **Kabupaten Wonosobo** (2024).
 - 📄 Reported a **Sensitive Data Exposure (SDE)** vulnerability in the **sitawon.wonosobokab.go.id** subdomain. (2025)
 - 🕒 Detected **Time-Based SQL Injection** vulnerability in the **perpus.smkn1-wnb.sch.id** subdomain. (2025)
-- 🔑 Identified **Hardcoded Credentials Exposure** in a public GitHub repository owned by Dinas Lingkungan Hidup Kabupaten Banyuwangi (dlh-banyuwangikab) — Responsible disclosure led to official acknowledgment and certification by DLH Banyuwangi (2025).
+- 🔑 Identified **Hardcoded Credentials Exposure** / **Sensitive Data Exposure** in a public GitHub repository owned by Dinas Lingkungan Hidup Kabupaten Banyuwangi (dlh-banyuwangikab) — Responsible disclosure led to official acknowledgment and certification by DLH Banyuwangi (2025).
+- 🔑 Identified **Hardcoded Credentials Exposure** / **Sensitive Data Exposure** in a public GitHub repository owned by Kabupaten Blora Goverment — Responsible disclosure led to official acknowledgment and certification by Kabupaten Blora Government (2025).
+- 🔑 Identified **Hardcoded Credentials Exposure** / **Sensitive Data Exposure** in a public GitHub repository owned by Dewan Perwakilan Rakyat (DPR RI) — Responsible disclosure led to official acknowledgment and certification by DPR RI (2025).
+- 🔑 Identified **Hardcoded Credentials Exposure** / **Sensitive Data Exposure** in a public GitHub repository owned by Kabupaten Bantul Goverment — Responsible disclosure led to official acknowledgment and certification by Kabupaten Bantul Government (2025).
+- 🏆 **1st Place** | IT Software Solutions for Business Competition (Wonosobo Regency)
 
 📝 And others — all reports were submitted with a responsible disclosure approach. Some were acknowledged, others were fixed silently or remain unconfirmed.
 
