@@ -10,7 +10,7 @@
 Hi! I am a Software and Game Development student at SMK Negeri 1 Wadaslintang. I have a huge curiosity about technology, especially when it comes to building secure systems and exploring how things work behind the scenes.
 
 - 💻 **Focus:** Backend Development & Cybersecurity
-- 🛠️ **Tech Stack:** PHP, JavaScript, Python, MySQL, and C#
+- 🛠️ **Tech Stack:** PHP, Python, .NET(C#), and MySQL
 - 🌐 **Community:** Part of ACT and Meta4Sec
 - 📝 **Hobbies:** Poetry, classic literature, and philosophy
 
