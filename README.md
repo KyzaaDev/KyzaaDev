@@ -7,13 +7,12 @@
 
 ## 🚀 About Me
 
-I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by curiosity about technology, I study Backend development and also Penetration testing. I am also a member of the ACT community and also Meta4Sec.
+Hi! I am a Software and Game Development student at SMK Negeri 1 Wadaslintang. I have a huge curiosity about technology, especially when it comes to building secure systems and exploring how things work behind the scenes.
 
-- 🔭 Currently I am studying at vocational school majoring in Software and Game Development. At SMK Negeri 1 Wadaslintang.
-- 📝 I like to write poetry, read classic literature, and philosophy books.
-- 🌐 Part of the ACT and Meta4Sec community
-- 💻 I’m currently diving into **cybersecurity** and **backend development**.
-- 🛠️ Currently learning: PHP, JavaScript, Python, MySQL, Desktop Development using C#, and ethical hacking.
+- 💻 **Focus:** Backend Development & Cybersecurity
+- 🛠️ **Tech Stack:** PHP, JavaScript, Python, MySQL, and C#
+- 🌐 **Community:** Part of ACT and Meta4Sec
+- 📝 **Hobbies:** Poetry, classic literature, and philosophy
 
 ---
 
@@ -63,7 +62,8 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 ---
 
 ## 📬 Get in Touch
-![https://www.instagram.com/zakynsa/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/dzaky-rnf/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zakynsa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzaky-rnf/)
 
 ---
 
