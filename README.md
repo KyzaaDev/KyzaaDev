@@ -1,8 +1,8 @@
 ## Hi there 👋, Im Dzaky RNF
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5uanBvbWpvbTBqMXVxYWpoNm11b3AwYTY0YnVqMm9rbjg0YTdpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AikqU9c8gOamzodpfP/giphy.gif" width="100%" alt="Inilah my aku">
-</div>
+<p>
+  <img src="https://i.imgur.com/Oot5PTp.png"/>
+</p>
 
 ## 🚀 About Me
 
