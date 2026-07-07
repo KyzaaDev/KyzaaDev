@@ -1,9 +1,6 @@
 ## Hi there 👋, Im Dzaky RNF
 
-<p>
-  <img src="https://i.imgur.com/Oot5PTp.png"/>
-</p>
-
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5uanBvbWpvbTBqMXVxYWpoNm11b3AwYTY0YnVqMm9rbjg0YTdpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AikqU9c8gOamzodpfP/giphy.gif
 
 ## 🚀 About Me
 
