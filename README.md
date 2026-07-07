@@ -20,7 +20,7 @@ I am a vocational high school student at SMK Negeri 1 Wadaslintang. Driven by cu
 ## 🛠️ Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,cs,dotnet,py,php,mysql,redis,vscode,visualstudio,ubuntu,postman" />
+    <img src="https://skillicons.dev/icons?i=cs,py,php,mysql,dotnet,redis,vscode,visualstudio,postman,docker,git,ubuntu" />
   </a>
 </p>
 
