@@ -1,7 +1,7 @@
 ## Hi there 👋, Im Dzaky RNF
 
 <p>
-  <img src="https://i.imgur.com/Oot5PTp.png"/>
+  <img src="https://i.imgur.com/hvEpmub.png"/>
 </p>
 
 ## 🚀 About Me
